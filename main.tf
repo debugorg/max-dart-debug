@@ -1,1 +1,1 @@
-aws_secret="abcdefghijklmnopqrst0123456789/+ABCDEFGH"
+ec2_name = "myec2"
